@@ -1,0 +1,6 @@
+Judul : Penerapan Representasi Kontekstual pada Pemrosesan Sekuens Genetik
+Latar Belakang : 
+	1. NLP dan representasi kontekstual pada pemrosesan bahasa alami.
+	2. Pemrosesan sekuens genetik dan penerapannya
+	3. Masalah pada pemrosesan sekuens genetik dan peluang representasi kontekstual untuk pemrosesan sekuens genetik.
+
