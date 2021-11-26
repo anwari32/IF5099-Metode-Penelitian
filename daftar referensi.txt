@@ -1,0 +1,2 @@
+DeepSS - Du, X., Yao, Y., Diao, Y., Zhu, H., Zhang, Y., & Li, S. (2018). DeepSS: Exploring Splice Site Motif Through Convolutional Neural Network Directly From DNA Sequence. IEEE Access, 6, 32958–32978. doi:10.1109/access.2018.2848847 
+SANPolyA - Yu, H., & Dai, Z. (2020). SANPolyA: a deep learning method for identifying Poly(A) signals. Bioinformatics. doi:10.1093/bioinformatics/btz970 
