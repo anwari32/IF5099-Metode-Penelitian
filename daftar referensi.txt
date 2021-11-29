@@ -43,3 +43,4 @@ S. Hochreiter, J. Schmidhuber, Long Short-Term Memory, Neural Computation 9 (8) 
 M. Peters, M. Neumann, M. Iyyer, M. Gardner, C. Clark, K. Lee, L. Zettlemoyer, Deep Contextualized Word Representations, in: Proc. 2018 Conf. North Am. Chapter Assoc. Comput. Linguist. Hum. Lang. Technol. Vol. 1 (Long Pap., Association for Compu- tational Linguistics, Stroudsburg, PA, USA, 2018, pp. 2227–2237. arXiv:1802.05365, doi:10.18653/v1/N18-1202. URL http://aclweb.org/anthology/N18-1202
 
 [Transformer]
+Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, Ł., & Polosukhin, I. (2017). Attention is all you need. Advances in Neural Information Processing Systems, 2017-Decem, 5999–6009.
