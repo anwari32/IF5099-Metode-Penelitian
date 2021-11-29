@@ -1,2 +1,45 @@
-DeepSS - Du, X., Yao, Y., Diao, Y., Zhu, H., Zhang, Y., & Li, S. (2018). DeepSS: Exploring Splice Site Motif Through Convolutional Neural Network Directly From DNA Sequence. IEEE Access, 6, 32958–32978. doi:10.1109/access.2018.2848847 
-SANPolyA - Yu, H., & Dai, Z. (2020). SANPolyA: a deep learning method for identifying Poly(A) signals. Bioinformatics. doi:10.1093/bioinformatics/btz970 
+[DeepSS]
+Du, X., Yao, Y., Diao, Y., Zhu, H., Zhang, Y., & Li, S. (2018). DeepSS: Exploring Splice Site Motif Through Convolutional Neural Network Directly From DNA Sequence. IEEE Access, 6, 32958–32978. doi:10.1109/access.2018.2848847 
+
+[SANPolyA] 
+Yu, H., & Dai, Z. (2020). SANPolyA: a deep learning method for identifying Poly(A) signals. Bioinformatics. doi:10.1093/bioinformatics/btz970 
+
+[DeeReCT-PolyA]
+Xia, Z., et al. (2018) DeeReCT-PolyA: a robust and generic deep learning method for PAS identification
+
+[HMM-SVM]
+Xie, B., et al. (2013) Poly(A) motif prediction using spectral latent features from human DNA sequences, Bioinformatics, 29, i316-i325.
+
+[DeepGSR]
+Kalkatawi, M., et al. (2019) DeepGSR: an optimized deep-learning structure for the recognition of genomic signals and regions, Bioinformatics (Oxford, England), 35, 1125-1132.
+
+[DPA]
+Kalkatawi, M., et al. (2012) Dragon PolyA Spotter: predictor of poly(A) motifs within human genomic DNA sequences, Bioinformatics, 28, 127-129.
+
+[Omni-PolyA]
+Magana-Mora, A., Kalkatawi, M. and Bajic, V.B. (2017) Omni-PolyA: a method and tool for accurate recognition of Poly(A) signals in human genomic DNA, BMC Genomics, 18, 620.
+
+[EPD database]
+Dreos,  R., Ambrosini,  G.,  Cavin Perier, R.  and Bucher, P.  (2013) EPD and  EPDnew,  high-quality  promoter resources  in the next-generation sequencing  era.  Nucleic Acids Res,  41,  D157-164
+
+[DeePromoter]
+Oubounyt,  M.,  Louadi, Z.,  Tayara, H. and  Chong, K.T.  (2019) DeePromoter: Robust Promoter  Predictor  Using Deep Learning.  Front  Genet,  10
+
+[DeepSEA]
+Zhou, J., Troyanskaya, O.  (2015) Predicting effects of noncoding variants with deep learning–based sequence model. Nat Methods 12, 931–934. https://doi.org/10.1038/nmeth.3547
+
+[ProtVec]
+ProtVec E. Asgari, M. R. K. Mofrad, Continuous Distributed Representation of Biological Sequences for Deep Proteomics and Genomics., PLoS One 10 (11) (2015) e0141287. doi:10.1371/journal.pone.0141287.
+ProtVecX E. Asgari, A. C. McHardy, M. R. K. Mofrad, Probabilistic variable-length segmentation of protein sequences for discriminative motif discovery (DiMotif) and sequence embedding (ProtVecX)., Sci. Rep. 9 (1) (2019) 3577. doi:10.1038/s41598-019-38746-w.
+
+[word2vec]
+T. Mikolov, K. Chen, G. Corrado, J. Dean, Efficient Estimation of Word Representations in Vector Space, 1st Int. Conf. Learn. Represent. ICLR 2013 - Work. Track Proc. (2013). arXiv:1301.3781.
+T. Mikolov, I. Sutskever, K. Chen, G. Corrado, J. Dean, Distributed Representations of Words and Phrases and their Compositionality, Adv. Neural Inf. Process. Syst. (2013). arXiv:1310.4546.
+
+[LSTM]
+S. Hochreiter, J. Schmidhuber, Long Short-Term Memory, Neural Computation 9 (8) (1997) 1735–1780. doi:10.1162/neco.1997.9.8. 1735.
+
+[ELMo]
+M. Peters, M. Neumann, M. Iyyer, M. Gardner, C. Clark, K. Lee, L. Zettlemoyer, Deep Contextualized Word Representations, in: Proc. 2018 Conf. North Am. Chapter Assoc. Comput. Linguist. Hum. Lang. Technol. Vol. 1 (Long Pap., Association for Compu- tational Linguistics, Stroudsburg, PA, USA, 2018, pp. 2227–2237. arXiv:1802.05365, doi:10.18653/v1/N18-1202. URL http://aclweb.org/anthology/N18-1202
+
+[Transformer]
